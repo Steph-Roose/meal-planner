@@ -1,0 +1,21 @@
+{
+  "ingredients": [
+    {
+      "_id": "64241d75aac65d122d766e85",
+      "title": "chicken stock",
+      "category": "Pantry",
+      "measurement_type": "Volume",
+      "imperial_large_qty": 32,
+      "imperial_large_unit": "Fluid Ounce(s)",
+      "imperial_small_qty": 32,
+      "imperial_small_unit": "Fluid Ounce(s)",
+      "metric_large_qty": 907,
+      "metric_large_unit": "Gram(s)",
+      "metric_small_qty": 907,
+      "metric_small_unit": "Gram(s)",
+      "tags": [],
+      "created_at": "2023-03-29T11:13:57.287Z"
+    }
+
+  ]
+}

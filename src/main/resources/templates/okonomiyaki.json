@@ -1,0 +1,345 @@
+{
+  "_id": "",
+  "title": "Okonomiyaki",
+  "is_draft": false,
+  "publish_date": "2021-01-27T00:00:00.000Z",
+  "primary_image": "",
+  "prep_time": 10,
+  "cook_time": 20,
+  "servings": 2,
+  "tags": [
+    "Freezer Friendly",
+    "Minimal Cooking"
+  ],
+  "default_instructions": [
+    "In a large bowl, combine the flour, salt, sugar, and stock/water. Whisk until combined and set aside while you prepare your cabbage and green onions.",
+    "Finely shred the cabbage. If you have larger pieces, give it a couple of chops to make them smaller. Slice your green onions and set aside the green part for garnish.",
+    "Add your panko and eggs to your pancake batter, mixing until just combined. Then, fold in your cabbage and the white parts of your green onions in batches.",
+    "Heat a nonstick skillet over medium heat and add your vegetable oil. Mix your batter again and carefully add half to your pan in a mound. Using a spatula, gently flatten it down into a circle, roughly 6 inches diameter and a half-inch tall. Add half of your bacon on top, careful not to overlap too much (unless you like soft bacon, then overlap to your heart's content!). If you want, you can use your spatula to neaten the edge of your pancake. Cover with a lid and cook for 5 minutes.",
+    "Carefully flip your pancake. You may need to use two spatulas, or one large spatula, to do it without breaking. Let it cook uncovered for another 5 minutes. Flip one final time and let it cook for 2 minutes to crisp the bottom. Remove to a wire rack to cool. Repeat with your second pancake.",
+    "While your pancakes cook, prepare your sauces. Mix the mayonnaise, rice vinegar, and sugar in a small bowl until the sugar mostly dissolves. In another small bowl, mix together the ketchup, Worcestershire, oyster sauce, and sugar until the sugar is dissolved. If you want to drizzle your sauces on top of your okonomiyaki, you can transfer them into resealable baggies and snip off a corner to pipe them on.",
+    "Let the okonomiyaki cool completely before storing. Add your toppings after you reheat. That's it!"
+  ],
+  "default_ingredients": [
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766e09",
+        "title": "all-purpose flour"
+      },
+      "qty": 0.5,
+      "type": "solid",
+      "group": "For the pancake",
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": 575,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d767000",
+        "title": "salt"
+      },
+      "qty": 0.25,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f20",
+        "title": "granulated sugar"
+      },
+      "qty": 0.25,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766e85",
+        "title": "chicken stock"
+      },
+      "qty": 0.5,
+      "type": "liquid",
+      "group": null,
+      "notes": "sub water",
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": "sub water"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766e57",
+        "title": "cabbage"
+      },
+      "qty": 0.25,
+      "type": "whole",
+      "group": null,
+      "notes": "finely shredded, about packed 3 cups (green or napa)",
+      "prefix": "",
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": "finely shredded, about packed 3 cups (green or napa)"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f2b",
+        "title": "green onions"
+      },
+      "qty": 2,
+      "type": "whole",
+      "group": null,
+      "notes": "chopped small, white and green ends separated",
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": "chopped small, white and green ends separated"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766fa0",
+        "title": "panko breadcrumbs"
+      },
+      "qty": 0.25,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766ece",
+        "title": "egg"
+      },
+      "qty": 2,
+      "type": "whole",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d76706e",
+        "title": "vegetable oil"
+      },
+      "qty": 2,
+      "type": "liquid",
+      "group": null,
+      "notes": "for cooking",
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": "for cooking"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766e1f",
+        "title": "bacon"
+      },
+      "qty": 4,
+      "type": "whole",
+      "group": null,
+      "notes": "optional",
+      "prefix": "slices",
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the pancake",
+      "shoppingNotes": "",
+      "preppingNotes": "optional"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f6e",
+        "title": "mayo"
+      },
+      "qty": 2,
+      "type": "solid",
+      "group": "For the Japanese mayo",
+      "notes": null,
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Japanese mayo",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766fee",
+        "title": "rice vinegar"
+      },
+      "qty": 1,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Japanese mayo",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f20",
+        "title": "granulated sugar"
+      },
+      "qty": 0.25,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Japanese mayo",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f54",
+        "title": "ketchup"
+      },
+      "qty": 2,
+      "type": "solid",
+      "group": "For the okonomiyaki sauce",
+      "notes": null,
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the okonomiyaki sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d767084",
+        "title": "worcestershire sauce"
+      },
+      "qty": 1.5,
+      "type": "liquid",
+      "group": null,
+      "notes": "sub soy sauce",
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the okonomiyaki sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "sub soy sauce"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f9b",
+        "title": "oyster sauce"
+      },
+      "qty": 1,
+      "type": "solid",
+      "group": null,
+      "notes": "sub hoisin",
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the okonomiyaki sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "sub hoisin"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f20",
+        "title": "granulated sugar"
+      },
+      "qty": 2,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the okonomiyaki sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766eee",
+        "title": "furikake"
+      },
+      "qty": 4,
+      "type": "solid",
+      "group": "For the toppings",
+      "notes": "divided, sub chopped nori sheets",
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the toppings",
+      "shoppingNotes": "",
+      "preppingNotes": "divided, sub chopped nori sheets"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d76700e",
+        "title": "sesame seeds"
+      },
+      "qty": 2,
+      "type": "solid",
+      "group": null,
+      "notes": "divided",
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the toppings",
+      "shoppingNotes": "",
+      "preppingNotes": "divided"
+    },
+    {
+      "id": {
+        "_id": "64241d75aac65d122d766f2b",
+        "title": "green onions"
+      },
+      "qty": 2,
+      "type": "whole",
+      "group": null,
+      "notes": "green ends",
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the toppings",
+      "shoppingNotes": "",
+      "preppingNotes": "green ends"
+    }
+  ]
+}

@@ -1,0 +1,453 @@
+{
+  "_id": "64241d95aac65d122d767219",
+  "title": "Orange Baked Chicken / Tofu (Copycat Recipe)",
+  "is_reviewed": true,
+  "is_draft": false,
+  "is_public": false,
+  "publish_date": "2023-10-12T00:00:00.000Z",
+  "primary_image": "https://wwl-api-images.s3.us-west-2.amazonaws.com/mandarin_orange_chickne_after_e1602632710567_680x450_e42fec088a.jpg",
+  "descr": "<p>I'd be lying if I said proximity to specific grocery stores wasn't a factor when choosing an apartment in Seattle, our new home. One of those stores was Trader Joe's, because in NYC, going to TJ is always a stressful and time-consuming experience. Not here though! There's parking. There's not a ton of people. And I can shop for novelty items in piece. I heard that TJ's Mandarin Orange Chicken was one of the best freezer meals and I knew I had to try it. While we definitley enjoyed the freezer meal version from TJ, I was excited to make my own from scratch. Below is a photo of the TJ frozen dinner version - we didn't have any veggies on hand and I topped the rice with furikake seasoning. <img src=\"https://wwl-api-images.s3.us-west-2.amazonaws.com/mandarin_orange_chickne_after_e1602632710567_680x450_e42fec088a.jpg\"> Again, it was good, but we found that there was more breading than actual chicken and the sauce was almost too sweet. I hope you enjoy this homemade orange chicken version as much as I did!</p><h2><img src=\"https://workweeklunch.com/wp-content/uploads/2020/10/trader-joes-chicken-right-e1602632884195-772x1024.jpg\"></h2><h2>Recipe Overview</h2><p><br></p><p>Here we're using chicken thigh (way moister than chicken breast) or tofu, broccoli, rice and a bunch of easy-to-find ingredients for the orange sauce (the star of the dish) including an orange, soy sauce, sugar, rice vinegar and ketchup.</p><h2><strong>How you can customize this recipe</strong></h2><ul><li>You can easily swap out chicken thighs for chicken breast, shrimp, or beef strips. Just note that chicken thigh will have the best texture! Swap out tofu for tempeh or even chickpeas.</li><li>You can easily swap white rice out for a grain of your choice. Note that white rice has a better texture for meal preps than brown rice, but it totally works. Quinoa or cauliflower rice would work too! I was this close to making this a noodle dish - noodles would absolutely work.</li><li>Want to add more veggies or maybe you're over broccoli? Snap peas, bok choy, green onions, baby corn, bell peppers, zucchini, chopped green beans and white mushrooms would all work well in this dish.</li><li>Use an all-purpose GF flour, GF bread crumbs, and liquid aminos instead of soy sauce to make this meal gluten free!</li><li>If you're vegan, replace the eggs with 1/2 cup non-dairy milk</li></ul><h2><img src=\"https://workweeklunch.com/wp-content/uploads/2020/10/orange-baked-chicken-1024x1024.png\"></h2><h2><strong>Let's talk about the sauce</strong></h2><p><br></p><p>For the sauce, you’re looking for a thick texture, but thin enough to toss your protein in. If your sauce isn’t getting thick, add more cornstarch mixed with water (1 tsp cornstarch to 2-3 TBSP water). If your sauce is too thick, add more water. If you want it to be sweeter, add more sugar or ketchup!</p><h2><img src=\"https://workweeklunch.com/wp-content/uploads/2020/10/mandarin-orange-chickne-after-e1602632710567-1024x501.jpg\"></h2><h2>Storage and reheating notes:</h2><p>This meal lasts for up to 4 days in the fridge. It's not freezer-friendly. You can also save any extra sauce in the fridge for up to 6 days (or freeze the sauce alone!) Reheat this Orange Chicken / Tofu meal in the microwave OR on the stove. Happy prepping!</p>",
+
+  "prep_time": 20,
+  "cook_time": 30,
+  "servings": 3,
+  "tags": [
+    "Kid Friendly",
+    "takeout inspired"
+  ],
+  "default_instructions": "<p>Preheat your oven to 375 F. Grease a baking sheet with cooking spray.</p><p>Prepare the chicken: Process or blend the panko breadcrumbs to make them finer (I just used my food processor). Add the flour to a bowl and mix it with the salt. Place the processed panko breadcrumbs and whisked eggs in their own bowls.</p><p>Dip the chicken in the flour, then eggs, then panko and onto the baking sheet. This is easiest to do with tongs. Make sure to tap off excess flour and panko as you go and give the tofu as much space as possible. When all the chicken is coated and on the sheet pan, bake for 20 minutes.</p><p>Meanwhile, cook the rice: add the rice, water and a generous pinch of salt to a pot. Bring the pot to a boil, then cover and reduce to a simmer for 10 minutes. Turn off the heat and let the rice steam for an additional 10 minutes (or longer). Then fluff with a fork and set aside.</p><p>Cook the broccoli: Add the oil to a skillet over medium heat, followed by the broccoli and salt and pepper to taste. Toss the broccoli to coat it in the oil, then add 1/4 cup water to the pan. Cover and let the broccoli steam until bright green - about 6-8 minutes. Uncover the pan and let the broccoli cook for an additional 2-3 minutes. Remove it from the pan and give it a quick wipe.</p><p>Prepare the sauce: Mix the cornstarch, rice vinegar, soy sauce, sugar, sesame oil, ginger, garlic, ketchup and water in a measuring glass. Squeeze the juice from the orange into the glass and add about 1/2 tsp of zest.</p><p>Cook the sauce: Pour the mixture into the same pan you used for the broccoli over medium-high heat and bring it to a low boil. Stir frequently and keep cooking until the sauce thickens, about 3-5 minutes. Taste and adjust flavors as necessary. If you want it to be sweeter, add more sugar or ketchup. If the sauce is not thickening, turn up the heat a bit and stir less often.</p><p>When the sauce is thick, add the cooked chicken to the pan and toss to coat.</p><p>Assemble: Divide the rice, broccoli and coated orange chicken to your meal prep containers. That's it!</p>",
+  "default_ingredients": [
+    {
+      "id": {
+        "title": "cooking spray",
+        "tags": [],
+        "_id": "64241d75aac65d122d766e9f",
+        "created_at": "2024-01-25T08:55:46.629Z"
+      },
+      "qty": null,
+      "type": "whole",
+      "group": "For the Chicken ",
+      "notes": null,
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "cooking spray"
+    },
+    {
+      "GF": {
+        "title": "gluten-free breadcrumbs",
+        "qty": 1.5,
+        "measurement": "cup",
+        "type": "Weight",
+        "shoppingNotes": "",
+        "preppingNotes": ""
+      },
+      "id": {
+        "title": "panko breadcrumbs",
+        "tags": [],
+        "_id": "64241d75aac65d122d766fa0",
+        "created_at": "2024-01-25T08:55:46.629Z"
+      },
+      "qty": 1.5,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": 593,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "panko breadcrumbs"
+    },
+    {
+      "id": {
+        "title": "all-purpose flour",
+        "tags": [],
+        "_id": "64241d75aac65d122d766e09",
+        "created_at": "2024-01-25T08:55:46.630Z"
+      },
+      "qty": 1,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "all-purpose flour"
+    },
+    {
+      "id": {
+        "title": "salt",
+        "tags": [],
+        "_id": "64241d75aac65d122d767000",
+        "created_at": "2024-01-25T08:55:46.630Z"
+      },
+      "qty": 0.5,
+      "type": "solid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "salt"
+    },
+    {
+      "id": {
+        "title": "egg",
+        "tags": [],
+        "_id": "64241d75aac65d122d766ece",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 2,
+      "type": "solid",
+      "group": null,
+      "notes": "whisked",
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": "whisked",
+      "title": "egg"
+    },
+    {
+      "id": {
+        "title": "chicken thighs",
+        "tags": [],
+        "_id": "64241d75aac65d122d766e88",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 16,
+      "type": "solid",
+      "group": null,
+      "notes": "chopped, sub chicken breast",
+      "prefix": null,
+      "measurement": "ounce",
+      "substituteId": null,
+      "ingredient_list_group": "For the Chicken ",
+      "shoppingNotes": "",
+      "preppingNotes": "chopped, sub chicken breast",
+      "title": "chicken thighs"
+    },
+    {
+      "id": {
+        "title": "rice",
+        "tags": [],
+        "_id": "64241d75aac65d122d766feb",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 0.75,
+      "type": "solid",
+      "group": "For the Broccoli and Rice",
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "rice"
+    },
+    {
+      "id": {
+        "title": "water",
+        "tags": [],
+        "_id": "64241d75aac65d122d767079",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 1.5,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "water"
+    },
+    {
+      "id": {
+        "title": "olive oil",
+        "tags": [],
+        "_id": "64241d75aac65d122d766f91",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 1,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": null
+    },
+    {
+      "id": {
+        "title": "broccoli",
+        "tags": [],
+        "_id": "64241d75aac65d122d766e4a",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": 1,
+      "type": "whole",
+      "group": null,
+      "notes": "chopped into florets",
+      "prefix": "head",
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": "chopped into florets"
+    },
+    {
+      "id": {
+        "title": "salt and pepper",
+        "tags": [],
+        "_id": "64241d75aac65d122d767001",
+        "created_at": "2024-01-25T08:55:46.631Z"
+      },
+      "qty": null,
+      "type": "whole",
+      "group": null,
+      "notes": "to taste",
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": "to taste",
+      "title": "salt and pepper"
+    },
+    {
+      "id": {
+        "title": "water",
+        "tags": [],
+        "_id": "64241d75aac65d122d767079",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 0.25,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Broccoli and Rice",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "water"
+    },
+    {
+      "id": {
+        "title": "cornstarch",
+        "tags": [],
+        "_id": "64241d75aac65d122d766ea3",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 1,
+      "type": "solid",
+      "group": "For the Sauce",
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "cornstarch"
+    },
+    {
+      "id": {
+        "title": "rice vinegar",
+        "tags": [],
+        "_id": "64241d75aac65d122d766fee",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 0.25,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "rice vinegar"
+    },
+    {
+      "GF": {
+        "title": "liquid aminos",
+        "qty": 0.25,
+        "measurement": "cup",
+        "type": "Volume",
+        "shoppingNotes": "",
+        "preppingNotes": ""
+      },
+      "id": {
+        "title": "soy sauce",
+        "tags": [],
+        "_id": "64241d75aac65d122d76702c",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 0.25,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": 570,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "soy sauce"
+    },
+    {
+      "id": {
+        "title": "sesame oil",
+        "tags": [],
+        "_id": "64241d75aac65d122d76700d",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 1,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "teaspoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "sesame oil"
+    },
+    {
+      "id": {
+        "title": "ginger",
+        "tags": [],
+        "_id": "64241d75aac65d122d766f01",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 1,
+      "type": "whole",
+      "group": null,
+      "notes": "minced or grated",
+      "prefix": "inch",
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "minced or grated",
+      "title": "ginger"
+    },
+    {
+      "id": {
+        "title": "garlic",
+        "tags": [],
+        "_id": "64241d75aac65d122d766ef0",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 1,
+      "type": "whole",
+      "group": null,
+      "notes": "minced or grated",
+      "prefix": "clove",
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "minced or grated",
+      "title": "garlic"
+    },
+    {
+      "id": {
+        "title": "ketchup",
+        "tags": [],
+        "_id": "64241d75aac65d122d766f54",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 2,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "tablespoon",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "ketchup"
+    },
+    {
+      "id": {
+        "title": "water",
+        "tags": [],
+        "_id": "64241d75aac65d122d767079",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 0.33,
+      "type": "liquid",
+      "group": null,
+      "notes": null,
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": null,
+      "title": "water"
+    },
+    {
+      "id": {
+        "title": "white sugar",
+        "tags": [],
+        "_id": "64241d75aac65d122d76707e",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 0.25,
+      "type": "solid",
+      "group": null,
+      "notes": "plus more to taste",
+      "prefix": null,
+      "measurement": "cup",
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "plus more to taste",
+      "title": "white sugar"
+    },
+    {
+      "id": {
+        "title": "orange",
+        "tags": [],
+        "_id": "64241d75aac65d122d766f95",
+        "created_at": "2024-01-25T08:55:46.632Z"
+      },
+      "qty": 1,
+      "type": "whole",
+      "group": null,
+      "notes": "for juices and zest",
+      "prefix": null,
+      "measurement": null,
+      "substituteId": null,
+      "ingredient_list_group": "For the Sauce",
+      "shoppingNotes": "",
+      "preppingNotes": "for juices and zest",
+      "title": "orange"
+    }
+  ]
+}

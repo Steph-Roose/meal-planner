@@ -1,0 +1,5072 @@
+[
+  {
+    "_id": "6458cb29173483c8d1cf9b1f",
+    "tag": "acorn squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2a173483c8d1cf9b34",
+    "tag": "agave",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2b173483c8d1cf9b47",
+    "tag": "allspice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2c173483c8d1cf9b58",
+    "tag": "almond butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2d173483c8d1cf9b68",
+    "tag": "arugula",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2e173483c8d1cf9b7b",
+    "tag": "assorted fruit",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb2f173483c8d1cf9b8d",
+    "tag": "avocado oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb30173483c8d1cf9ba3",
+    "tag": "baby red potatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb31173483c8d1cf9bb7",
+    "tag": "baby spinach",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb32173483c8d1cf9bcb",
+    "tag": "bacon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb33173483c8d1cf9bdc",
+    "tag": "baking powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb34173483c8d1cf9bf7",
+    "tag": "balsamic vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb35173483c8d1cf9c0a",
+    "tag": "banana",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb36173483c8d1cf9c1c",
+    "tag": "barley",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb37173483c8d1cf9c2f",
+    "tag": "bay leaf",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb37173483c8d1cf9c43",
+    "tag": "bbq sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb38173483c8d1cf9c56",
+    "tag": "beet",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3a173483c8d1cf9c72",
+    "tag": "bell pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3b173483c8d1cf9c89",
+    "tag": "black olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3c173483c8d1cf9c9d",
+    "tag": "blue cheese crumbles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3d173483c8d1cf9cb2",
+    "tag": "bosc pear",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3e173483c8d1cf9cc0",
+    "tag": "box corn muffin mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb3f173483c8d1cf9cdf",
+    "tag": "breakfast sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb40173483c8d1cf9cef",
+    "tag": "brewed coffee",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb41173483c8d1cf9d04",
+    "tag": "brussels sprouts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb43173483c8d1cf9d25",
+    "tag": "butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb44173483c8d1cf9d37",
+    "tag": "buttermilk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb45173483c8d1cf9d49",
+    "tag": "butterscotch chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb46173483c8d1cf9d60",
+    "tag": "cabbage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb46173483c8d1cf9d73",
+    "tag": "canned black beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb47173483c8d1cf9d87",
+    "tag": "canned butter beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb48173483c8d1cf9d9a",
+    "tag": "canned chickpeas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb49173483c8d1cf9db0",
+    "tag": "canned coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4a173483c8d1cf9dc4",
+    "tag": "canned fire roasted diced tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4b173483c8d1cf9ddc",
+    "tag": "canned salmon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4c173483c8d1cf9df2",
+    "tag": "canned tomato sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4d173483c8d1cf9e05",
+    "tag": "canned tuna",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4e173483c8d1cf9e17",
+    "tag": "cannellini beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb4f173483c8d1cf9e29",
+    "tag": "can of baby corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb50173483c8d1cf9e41",
+    "tag": "can of corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb51173483c8d1cf9e53",
+    "tag": "can of diced green chilies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb52173483c8d1cf9e63",
+    "tag": "can of diced tomatoes ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb53173483c8d1cf9e82",
+    "tag": "carrot",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb54173483c8d1cf9e91",
+    "tag": "cashews",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb55173483c8d1cf9ea2",
+    "tag": "cayenne",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb56173483c8d1cf9eb5",
+    "tag": "chicken sausage links",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb57173483c8d1cf9ec8",
+    "tag": "chiles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb58173483c8d1cf9edc",
+    "tag": "chipotle peppers in adobo sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb59173483c8d1cf9eef",
+    "tag": "chocolate chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb5a173483c8d1cf9f0a",
+    "tag": "clementines",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb5b173483c8d1cf9f1d",
+    "tag": "cloves",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb5c173483c8d1cf9f33",
+    "tag": "coarse sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb5e173483c8d1cf9f53",
+    "tag": "cooking spray",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb5f173483c8d1cf9f6b",
+    "tag": "cornmeal",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb60173483c8d1cf9f8a",
+    "tag": "couscous",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb61173483c8d1cf9f9d",
+    "tag": "cream cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb62173483c8d1cf9fb2",
+    "tag": "crushed red pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb63173483c8d1cf9fc5",
+    "tag": "crushed tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb64173483c8d1cf9fd9",
+    "tag": "curry paste",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb65173483c8d1cf9fed",
+    "tag": "dairy-free tzatziki",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb66173483c8d1cfa000",
+    "tag": "dill",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb67173483c8d1cfa01c",
+    "tag": "dried chiles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb68173483c8d1cfa032",
+    "tag": "egg noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb6a173483c8d1cfa045",
+    "tag": "almonds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb71173483c8d1cfa0a6",
+    "tag": "apple",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb73173483c8d1cfa0bf",
+    "tag": "asparagus",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb74173483c8d1cfa0d4",
+    "tag": "baby bella mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb75173483c8d1cfa0e6",
+    "tag": "bacon substitute",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb76173483c8d1cfa0fa",
+    "tag": "bagel",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb77173483c8d1cfa114",
+    "tag": "basil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb78173483c8d1cfa125",
+    "tag": "beef broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb79173483c8d1cfa138",
+    "tag": "better than bouillon vegetable base",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb7a173483c8d1cfa144",
+    "tag": "blackberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb7e173483c8d1cfa177",
+    "tag": "bread crumbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb7f173483c8d1cfa18a",
+    "tag": "bread of choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb81173483c8d1cfa1af",
+    "tag": "broccoli",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb82173483c8d1cfa1d2",
+    "tag": "brown sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb83173483c8d1cfa1e4",
+    "tag": "cajun seasoning",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb84173483c8d1cfa1f6",
+    "tag": "canned coconut cream",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb85173483c8d1cfa208",
+    "tag": "canned pigeon peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb86173483c8d1cfa21a",
+    "tag": "canned pinto beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb87173483c8d1cfa230",
+    "tag": "can of beets",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb88173483c8d1cfa244",
+    "tag": "can of cream style corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb89173483c8d1cfa254",
+    "tag": "cauliflower",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8a173483c8d1cfa264",
+    "tag": "celery stick",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8a173483c8d1cfa276",
+    "tag": "cheerios",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8b173483c8d1cfa288",
+    "tag": "cherries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8c173483c8d1cfa29c",
+    "tag": "cherry tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8d173483c8d1cfa2ae",
+    "tag": "chicken tenders",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8e173483c8d1cfa2c1",
+    "tag": "chicken wings",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb8f173483c8d1cfa2d3",
+    "tag": "chives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb90173483c8d1cfa2eb",
+    "tag": "coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb91173483c8d1cfa2ff",
+    "tag": "coconut oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb92173483c8d1cfa316",
+    "tag": "cornstarch",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb93173483c8d1cfa325",
+    "tag": "corn tortillas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb94173483c8d1cfa333",
+    "tag": "cranberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb95173483c8d1cfa346",
+    "tag": "cream of tartar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb96173483c8d1cfa35c",
+    "tag": "creole seasoning",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb98173483c8d1cfa37f",
+    "tag": "cumin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb99173483c8d1cfa390",
+    "tag": "curry powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9a173483c8d1cfa3a9",
+    "tag": "dijon mustard",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9b173483c8d1cfa3bd",
+    "tag": "dried apples",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9c173483c8d1cfa3d2",
+    "tag": "dried apricots",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9c173483c8d1cfa3e9",
+    "tag": "dried cherries ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9d173483c8d1cfa3fd",
+    "tag": "dried cranberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9e173483c8d1cfa40f",
+    "tag": "dried oregano",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cb9f173483c8d1cfa423",
+    "tag": "dried parsley",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba0173483c8d1cfa435",
+    "tag": "dried seaweed",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba1173483c8d1cfa449",
+    "tag": "dry polenta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba2173483c8d1cfa45d",
+    "tag": "enchilada sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba3173483c8d1cfa475",
+    "tag": "flaxseed",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba4173483c8d1cfa495",
+    "tag": "frozen edamame",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba6173483c8d1cfa4b7",
+    "tag": "frozen spinach",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba7173483c8d1cfa4cc",
+    "tag": "fuji apple",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba8173483c8d1cfa4e0",
+    "tag": "furikake",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cba9173483c8d1cfa4eb",
+    "tag": "garlic powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbaf173483c8d1cfa565",
+    "tag": "golden raisins",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb0173483c8d1cfa579",
+    "tag": "granny smith apples",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb1173483c8d1cfa58d",
+    "tag": "granola of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb2173483c8d1cfa59e",
+    "tag": "granulated vegetable bouillon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb3173483c8d1cfa5b3",
+    "tag": "grapes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb3173483c8d1cfa5ca",
+    "tag": "green bell pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb5173483c8d1cfa5e1",
+    "tag": "green onions",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb6173483c8d1cfa5f5",
+    "tag": "greens",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb6173483c8d1cfa609",
+    "tag": "hard non-dairy cheese of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb7173483c8d1cfa61d",
+    "tag": "head of romaine lettuce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbb8173483c8d1cfa631",
+    "tag": "heavy cream",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbba173483c8d1cfa651",
+    "tag": "jalapeno",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbba173483c8d1cfa665",
+    "tag": "kale",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbbb173483c8d1cfa678",
+    "tag": "leftover vegetables",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbbc173483c8d1cfa68b",
+    "tag": "lemon extract",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbbd173483c8d1cfa6a0",
+    "tag": "lemon juice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbbe173483c8d1cfa6b2",
+    "tag": "lemon zest",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbbf173483c8d1cfa6cd",
+    "tag": "liquid aminos",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc0173483c8d1cfa6e1",
+    "tag": "mandarin ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc1173483c8d1cfa6f5",
+    "tag": "mayo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc4173483c8d1cfa73a",
+    "tag": "milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc5173483c8d1cfa750",
+    "tag": "mirin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc6173483c8d1cfa764",
+    "tag": "mixed frozen veggies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc7173483c8d1cfa778",
+    "tag": "mustard powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc8173483c8d1cfa791",
+    "tag": "non-dairy shredded cheese ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbc9173483c8d1cfa7a9",
+    "tag": "old fashioned oats",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbca173483c8d1cfa7be",
+    "tag": "orange zest",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbcb173483c8d1cfa7d3",
+    "tag": "papaya",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbcc173483c8d1cfa7eb",
+    "tag": "parmesan",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbcd173483c8d1cfa7fd",
+    "tag": "parmesan cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbce173483c8d1cfa80f",
+    "tag": "peanut butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbcf173483c8d1cfa82b",
+    "tag": "peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd0173483c8d1cfa840",
+    "tag": "pepitas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd1173483c8d1cfa854",
+    "tag": "pickles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd2173483c8d1cfa868",
+    "tag": "pinto beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd2173483c8d1cfa879",
+    "tag": "plain yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd3173483c8d1cfa88e",
+    "tag": "plantain",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd4173483c8d1cfa8a0",
+    "tag": "plantain chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd5173483c8d1cfa8b2",
+    "tag": "pomegranate",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd6173483c8d1cfa8d4",
+    "tag": "poppy seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd7173483c8d1cfa8e6",
+    "tag": "pork loin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd8173483c8d1cfa8f9",
+    "tag": "potato chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbd9173483c8d1cfa90d",
+    "tag": "protein powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbda173483c8d1cfa922",
+    "tag": "rainbow sprinkles ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbdb173483c8d1cfa936",
+    "tag": "ravioli",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbdc173483c8d1cfa94b",
+    "tag": "red cabbage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbdc173483c8d1cfa960",
+    "tag": "red onion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbde173483c8d1cfa97b",
+    "tag": "red pepper flakes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbde173483c8d1cfa98f",
+    "tag": "refried beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbdf173483c8d1cfa9a2",
+    "tag": "roasted corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe0173483c8d1cfa9b5",
+    "tag": "roma tomato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe1173483c8d1cfa9c8",
+    "tag": "russet potato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe2173483c8d1cfa9dc",
+    "tag": "salmon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe3173483c8d1cfa9ef",
+    "tag": "sausage links of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe4173483c8d1cfaa02",
+    "tag": "sausage of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe4173483c8d1cfaa10",
+    "tag": "serrano pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe6173483c8d1cfaa28",
+    "tag": "sesame oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe6173483c8d1cfaa3d",
+    "tag": "shallot",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe8173483c8d1cfaa52",
+    "tag": "shredded cheese, any kind",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe8173483c8d1cfaa66",
+    "tag": "shredded mozzarella cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbe9173483c8d1cfaa7a",
+    "tag": "shredded mozzarella cheese ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbea173483c8d1cfaa8c",
+    "tag": "shredded vegan cheddar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbeb173483c8d1cfaa9c",
+    "tag": "active dry yeast ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbec173483c8d1cfaab6",
+    "tag": "agave, maple syrup or honey",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbed173483c8d1cfaac9",
+    "tag": "alfalfa sprouts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbee173483c8d1cfaae6",
+    "tag": "all-purpose flour",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf1173483c8d1cfab16",
+    "tag": "angel hair pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf2173483c8d1cfab24",
+    "tag": "apple cider vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf3173483c8d1cfab38",
+    "tag": "avocado",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf4173483c8d1cfab5c",
+    "tag": "baby potatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf5173483c8d1cfab6f",
+    "tag": "bag of coleslaw mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf6173483c8d1cfab83",
+    "tag": "bag of frozen tator tots ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf7173483c8d1cfab93",
+    "tag": "beef bouillon cubes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf7173483c8d1cfaba7",
+    "tag": "beef stew meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf8173483c8d1cfabbc",
+    "tag": "beer",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbf9173483c8d1cfabd4",
+    "tag": "black beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbfa173483c8d1cfabe7",
+    "tag": "bourbon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbfb173483c8d1cfabfb",
+    "tag": "bowtie pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbfd173483c8d1cfac22",
+    "tag": "bread",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbfe173483c8d1cfac34",
+    "tag": "bunch of asparagus",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbff173483c8d1cfac45",
+    "tag": "butternut squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cbff173483c8d1cfac58",
+    "tag": "canned kidney beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc01173483c8d1cfac78",
+    "tag": "carrots",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc02173483c8d1cfac8b",
+    "tag": "cauliflower florets",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc03173483c8d1cfac9d",
+    "tag": "chia seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc04173483c8d1cfacaf",
+    "tag": "chicken stock",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc05173483c8d1cfacc3",
+    "tag": "chicken thigh",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc05173483c8d1cfacdd",
+    "tag": "chili garlic sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc06173483c8d1cfacf3",
+    "tag": "chili powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc07173483c8d1cfad05",
+    "tag": "chipotle powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc08173483c8d1cfad1b",
+    "tag": "chocolate chips, nuts, dried fruit, seeds etc",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc09173483c8d1cfad2f",
+    "tag": "chuck roast",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0a173483c8d1cfad42",
+    "tag": "confectioners sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0a173483c8d1cfad56",
+    "tag": "coriander ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0c173483c8d1cfad75",
+    "tag": "corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0d173483c8d1cfad87",
+    "tag": "cotija cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0e173483c8d1cfad99",
+    "tag": "cucumber",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc0f173483c8d1cfadaa",
+    "tag": "delicata squash ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc10173483c8d1cfadbe",
+    "tag": "deshelled pistachios",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc10173483c8d1cfadd0",
+    "tag": "dried dill",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc11173483c8d1cfaddd",
+    "tag": "edamame",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc13173483c8d1cfadfc",
+    "tag": "feta cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc14173483c8d1cfae11",
+    "tag": "flax egg",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc14173483c8d1cfae25",
+    "tag": "french bread",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc15173483c8d1cfae38",
+    "tag": "frozen corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc16173483c8d1cfae4c",
+    "tag": "frozen shrimp",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc17173483c8d1cfae60",
+    "tag": "fruit jelly",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc1b173483c8d1cfaeb9",
+    "tag": "golden beets",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc1d173483c8d1cfaeda",
+    "tag": "granulated sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc1e173483c8d1cfaeed",
+    "tag": "grapefruit",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc1e173483c8d1cfaf01",
+    "tag": "greek yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc1f173483c8d1cfaf18",
+    "tag": "green leaf lettuce ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc20173483c8d1cfaf2c",
+    "tag": "green olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc21173483c8d1cfaf46",
+    "tag": "green onion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc22173483c8d1cfaf5a",
+    "tag": "ground chorizo ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc23173483c8d1cfaf6e",
+    "tag": "ground pork",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc24173483c8d1cfaf81",
+    "tag": "shrimp",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc25173483c8d1cfaf95",
+    "tag": "single serving non-dairy yogurt of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc27173483c8d1cfafc1",
+    "tag": "soyrizo ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc28173483c8d1cfafe2",
+    "tag": "sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc29173483c8d1cfaff1",
+    "tag": "sun-dried tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc2a173483c8d1cfb004",
+    "tag": "sweet potato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc2c173483c8d1cfb02a",
+    "tag": "vanilla extract",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc2d173483c8d1cfb046",
+    "tag": "vegan butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc2e173483c8d1cfb058",
+    "tag": "vegan cheese crumbles ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc2f173483c8d1cfb067",
+    "tag": "vegan deli meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc30173483c8d1cfb075",
+    "tag": "vegan sausage links",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc31173483c8d1cfb094",
+    "tag": "vegetable oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc32173483c8d1cfb0a4",
+    "tag": "veggie burgers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc33173483c8d1cfb0ba",
+    "tag": "vermicelli noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc34173483c8d1cfb0ce",
+    "tag": "white beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc34173483c8d1cfb0df",
+    "tag": "white cheddar cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc35173483c8d1cfb0ef",
+    "tag": "white onion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc36173483c8d1cfb102",
+    "tag": "white sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc37173483c8d1cfb113",
+    "tag": "worcestershire sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc38173483c8d1cfb126",
+    "tag": "zucchini",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc39173483c8d1cfb145",
+    "tag": "american cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3a173483c8d1cfb159",
+    "tag": "ground rosemary",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3b173483c8d1cfb16e",
+    "tag": "ground turkey",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3c173483c8d1cfb181",
+    "tag": "guajillo chilies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3d173483c8d1cfb195",
+    "tag": "guinness extra stout beer",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3e173483c8d1cfb1a9",
+    "tag": "hash browns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3e173483c8d1cfb1bf",
+    "tag": "hazelnuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc3f173483c8d1cfb1d5",
+    "tag": "hoagie rolls",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc40173483c8d1cfb1e9",
+    "tag": "hummus",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc41173483c8d1cfb1fd",
+    "tag": "kalamata olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc42173483c8d1cfb211",
+    "tag": "lasagna noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc43173483c8d1cfb225",
+    "tag": "lettuce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc44173483c8d1cfb239",
+    "tag": "lime",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc44173483c8d1cfb24d",
+    "tag": "lime juice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc45173483c8d1cfb264",
+    "tag": "lo mein noodles ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc46173483c8d1cfb26f",
+    "tag": "mango",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc47173483c8d1cfb281",
+    "tag": "marinara sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc49173483c8d1cfb2b4",
+    "tag": "mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4a173483c8d1cfb2c8",
+    "tag": "nori sheet",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4b173483c8d1cfb2dc",
+    "tag": "nuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4c173483c8d1cfb2e6",
+    "tag": "old bay seasoning",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4c173483c8d1cfb2f8",
+    "tag": "orange bell pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4d173483c8d1cfb30d",
+    "tag": "orzo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4e173483c8d1cfb320",
+    "tag": "package of soft tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc4f173483c8d1cfb337",
+    "tag": "panko breadcrumbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc50173483c8d1cfb34f",
+    "tag": "paprika",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc51173483c8d1cfb363",
+    "tag": "parsley",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc52173483c8d1cfb377",
+    "tag": "parsnip",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc53173483c8d1cfb38c",
+    "tag": "pasta shells",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc54173483c8d1cfb39e",
+    "tag": "pasta water",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc55173483c8d1cfb3b2",
+    "tag": "pecans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc55173483c8d1cfb3c6",
+    "tag": "penne pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc56173483c8d1cfb3dd",
+    "tag": "pico de gallo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc57173483c8d1cfb3f1",
+    "tag": "pineapple chunks",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc58173483c8d1cfb406",
+    "tag": "pineapple juice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc59173483c8d1cfb41d",
+    "tag": "pitas with the pocket",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5a173483c8d1cfb42f",
+    "tag": "plain greek yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5b173483c8d1cfb442",
+    "tag": "pork shoulder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5c173483c8d1cfb456",
+    "tag": "potato buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5d173483c8d1cfb464",
+    "tag": "quinoa",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5e173483c8d1cfb47a",
+    "tag": "radishes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5e173483c8d1cfb48e",
+    "tag": "ramen noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc5f173483c8d1cfb4a3",
+    "tag": "red wine vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc61173483c8d1cfb4c1",
+    "tag": "rice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc62173483c8d1cfb4dd",
+    "tag": "rice vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc63173483c8d1cfb4ef",
+    "tag": "ripe bananas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc64173483c8d1cfb500",
+    "tag": "rotisserie chicken",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc65173483c8d1cfb50c",
+    "tag": "salami",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc6c173483c8d1cfb54f",
+    "tag": "salt and pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc6d173483c8d1cfb561",
+    "tag": "sambal",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc6e173483c8d1cfb577",
+    "tag": "scallion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc6f173483c8d1cfb58a",
+    "tag": "seasoning salt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc70173483c8d1cfb59c",
+    "tag": "short pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc71173483c8d1cfb5af",
+    "tag": "shredded cheddar cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc72173483c8d1cfb5be",
+    "tag": "snap peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc74173483c8d1cfb5dd",
+    "tag": "soy sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc74173483c8d1cfb5ed",
+    "tag": "steak",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc75173483c8d1cfb5fd",
+    "tag": "sunflower seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc76173483c8d1cfb606",
+    "tag": "sweetened shredded coconut",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc77173483c8d1cfb615",
+    "tag": "sweet red wine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc78173483c8d1cfb622",
+    "tag": "tempeh",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc79173483c8d1cfb637",
+    "tag": "thai basil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc79173483c8d1cfb648",
+    "tag": "thin asian-style egg noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7a173483c8d1cfb65c",
+    "tag": "apple cider",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7b173483c8d1cfb66e",
+    "tag": "baby bok choy",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7c173483c8d1cfb67e",
+    "tag": "bagged salad of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7d173483c8d1cfb692",
+    "tag": "bag of vegan chicken ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7e173483c8d1cfb6a4",
+    "tag": "baking soda",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc7f173483c8d1cfb6b8",
+    "tag": "beef burgers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc80173483c8d1cfb6ce",
+    "tag": "berries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc81173483c8d1cfb6e2",
+    "tag": "black eyed peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc82173483c8d1cfb6f6",
+    "tag": "blueberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc82173483c8d1cfb70a",
+    "tag": "broccolini",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc83173483c8d1cfb71d",
+    "tag": "broccoli slaw",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc84173483c8d1cfb730",
+    "tag": "broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc85173483c8d1cfb741",
+    "tag": "bucatini",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc87173483c8d1cfb765",
+    "tag": "burger buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc88173483c8d1cfb779",
+    "tag": "can cannelini beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc89173483c8d1cfb788",
+    "tag": "canned jackfruit",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8a173483c8d1cfb791",
+    "tag": "canned pineapple",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8b173483c8d1cfb79e",
+    "tag": "canned pumpkin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8c173483c8d1cfb7ac",
+    "tag": "can of artichoke hearts ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8c173483c8d1cfb7bb",
+    "tag": "cantaloupe ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8d173483c8d1cfb7cf",
+    "tag": "capers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc8f173483c8d1cfb7ec",
+    "tag": "celery",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc90173483c8d1cfb7fb",
+    "tag": "celery seed",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc90173483c8d1cfb80b",
+    "tag": "cereal of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc92173483c8d1cfb827",
+    "tag": "chicken breast",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc94173483c8d1cfb841",
+    "tag": "chicken broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc94173483c8d1cfb84e",
+    "tag": "chicken thighs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc95173483c8d1cfb85d",
+    "tag": "chocolate covered almonds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc97173483c8d1cfb86d",
+    "tag": "ciabatta buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc9c173483c8d1cfb8b4",
+    "tag": "cilantro",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc9e173483c8d1cfb8dd",
+    "tag": "cinnamon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cc9f173483c8d1cfb8e8",
+    "tag": "cocoa powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca0173483c8d1cfb8f7",
+    "tag": "coconut flakes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca1173483c8d1cfb908",
+    "tag": "crackers of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca2173483c8d1cfb91b",
+    "tag": "crispy fried onions",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca3173483c8d1cfb932",
+    "tag": "croutons",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca4173483c8d1cfb940",
+    "tag": "cumin seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca5173483c8d1cfb948",
+    "tag": "dairy free sour cream",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca6173483c8d1cfb953",
+    "tag": "dark soy sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca7173483c8d1cfb95a",
+    "tag": "dates",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca8173483c8d1cfb961",
+    "tag": "deli meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cca9173483c8d1cfb96a",
+    "tag": "dried fruit",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccaa173483c8d1cfb976",
+    "tag": "dried sage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccab173483c8d1cfb97a",
+    "tag": "dried thyme",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb1173483c8d1cfb9d0",
+    "tag": "egg",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb1173483c8d1cfb9e6",
+    "tag": "eggplant",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb3173483c8d1cfba00",
+    "tag": "farro",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb4173483c8d1cfba15",
+    "tag": "firm tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb5173483c8d1cfba24",
+    "tag": "fish sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb8173483c8d1cfba40",
+    "tag": "flour",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccb9173483c8d1cfba4c",
+    "tag": "frozen peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccbb173483c8d1cfba7c",
+    "tag": "garlic",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccbf173483c8d1cfbac3",
+    "tag": "ginger",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc2173483c8d1cfbaf8",
+    "tag": "tofu ricotta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc3173483c8d1cfbb0c",
+    "tag": "tomatillos",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc5173483c8d1cfbb3b",
+    "tag": "tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc7173483c8d1cfbb4d",
+    "tag": "tortillas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc7173483c8d1cfbb5e",
+    "tag": "unsweetened applesauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc9173483c8d1cfbb74",
+    "tag": "vanilla",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccc9173483c8d1cfbb86",
+    "tag": "vanilla wafers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccca173483c8d1cfbb96",
+    "tag": "vegan chocolate chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cccb173483c8d1cfbba6",
+    "tag": "vegan pesto",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cccc173483c8d1cfbbba",
+    "tag": "vegan plain yogurt ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cccd173483c8d1cfbbd0",
+    "tag": "vegan vanilla cookies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccce173483c8d1cfbbe4",
+    "tag": "vegan wonton wrappers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cccf173483c8d1cfbbf4",
+    "tag": "vegetarian fish sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd1173483c8d1cfbc1e",
+    "tag": "water",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd2173483c8d1cfbc2f",
+    "tag": "white pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd3173483c8d1cfbc43",
+    "tag": "wonton wrappers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd4173483c8d1cfbc56",
+    "tag": "yellow bell pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd5173483c8d1cfbc73",
+    "tag": "goat cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd6173483c8d1cfbc82",
+    "tag": "gochujang",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd7173483c8d1cfbc97",
+    "tag": "graham crackers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd8173483c8d1cfbcb1",
+    "tag": "ground beef",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccd9173483c8d1cfbcc6",
+    "tag": "ground chicken",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccda173483c8d1cfbcdb",
+    "tag": "ground ginger",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccdb173483c8d1cfbcef",
+    "tag": "ground meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccdb173483c8d1cfbd02",
+    "tag": "ground soyrizo ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccdc173483c8d1cfbd12",
+    "tag": "half and half",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccdd173483c8d1cfbd24",
+    "tag": "hard cheese of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccde173483c8d1cfbd36",
+    "tag": "head of broccoli",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccdf173483c8d1cfbd47",
+    "tag": "head of butter lettuce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce1173483c8d1cfbd64",
+    "tag": "honey",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce1173483c8d1cfbd78",
+    "tag": "ice cubes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce2173483c8d1cfbd8a",
+    "tag": "jam",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce3173483c8d1cfbd9a",
+    "tag": "kala namak",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce4173483c8d1cfbda9",
+    "tag": "ketchup",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce5173483c8d1cfbdbd",
+    "tag": "kimchi",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce6173483c8d1cfbddf",
+    "tag": "lemongrass",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce7173483c8d1cfbdf5",
+    "tag": "liquid smoke",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce8173483c8d1cfbe09",
+    "tag": "macaroni elbows",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cce9173483c8d1cfbe25",
+    "tag": "maple syrup",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccea173483c8d1cfbe38",
+    "tag": "matcha powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cceb173483c8d1cfbe4b",
+    "tag": "mayonnaise",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cced173483c8d1cfbe6d",
+    "tag": "milk of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cced173483c8d1cfbe7f",
+    "tag": "mozzarella cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccee173483c8d1cfbe8f",
+    "tag": "muffin liners",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccef173483c8d1cfbea3",
+    "tag": "naan",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf0173483c8d1cfbeb6",
+    "tag": "non-dairy cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf1173483c8d1cfbec9",
+    "tag": "non-dairy cream cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf2173483c8d1cfbede",
+    "tag": "non-dairy feta cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf3173483c8d1cfbf00",
+    "tag": "non-dairy milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf4173483c8d1cfbf15",
+    "tag": "noodles, any kind",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf5173483c8d1cfbf28",
+    "tag": "noodles of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf6173483c8d1cfbf3d",
+    "tag": "nutmeg",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf7173483c8d1cfbf54",
+    "tag": "nutritional yeast",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccf8173483c8d1cfbf68",
+    "tag": "nuts and seeds of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccfb173483c8d1cfbfa1",
+    "tag": "olive oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccfc173483c8d1cfbfb5",
+    "tag": "onion powder",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccfd173483c8d1cfbfc9",
+    "tag": "oyster sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccfe173483c8d1cfbfe6",
+    "tag": "package of firm tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccff173483c8d1cfbffa",
+    "tag": "pack of slider buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ccff173483c8d1cfc013",
+    "tag": "peach",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd00173483c8d1cfc029",
+    "tag": "peaches",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd01173483c8d1cfc03e",
+    "tag": "peanuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd02173483c8d1cfc052",
+    "tag": "pearl onions",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd03173483c8d1cfc068",
+    "tag": "pecorino romano",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd05173483c8d1cfc096",
+    "tag": "pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd06173483c8d1cfc0ad",
+    "tag": "pickled jalapenos",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd07173483c8d1cfc0c3",
+    "tag": "pie crusts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd08173483c8d1cfc0d8",
+    "tag": "pineapple",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd08173483c8d1cfc0ef",
+    "tag": "pita chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd09173483c8d1cfc103",
+    "tag": "poblano pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0a173483c8d1cfc117",
+    "tag": "prosciutto",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0b173483c8d1cfc12c",
+    "tag": "pumpkin spice mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0c173483c8d1cfc140",
+    "tag": "ranch dressing",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0d173483c8d1cfc155",
+    "tag": "raspberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0e173483c8d1cfc169",
+    "tag": "raw veggies of your choice ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0f173483c8d1cfc17b",
+    "tag": "red bell pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd0f173483c8d1cfc191",
+    "tag": "english muffins",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd10173483c8d1cfc1aa",
+    "tag": "everything but the bagel seasoning ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd11173483c8d1cfc1c1",
+    "tag": "feta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd12173483c8d1cfc1de",
+    "tag": "flank steak",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd13173483c8d1cfc1ef",
+    "tag": "french rolls",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd14173483c8d1cfc202",
+    "tag": "fresh dill",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd15173483c8d1cfc217",
+    "tag": "fresh herbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd16173483c8d1cfc22b",
+    "tag": "fresh strawberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd17173483c8d1cfc23f",
+    "tag": "fried chow mein noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd18173483c8d1cfc252",
+    "tag": "garam masala",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd1f173483c8d1cfc2fd",
+    "tag": "gnocchi",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd20173483c8d1cfc30e",
+    "tag": "granulated chicken bouillon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd21173483c8d1cfc321",
+    "tag": "green beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd22173483c8d1cfc336",
+    "tag": "ground sage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd23173483c8d1cfc34c",
+    "tag": "ground thyme",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd23173483c8d1cfc360",
+    "tag": "gruyere cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd24173483c8d1cfc376",
+    "tag": "hoisin sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd25173483c8d1cfc388",
+    "tag": "hominy",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd26173483c8d1cfc3a2",
+    "tag": "hot sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd27173483c8d1cfc3b5",
+    "tag": "instant yeast",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd28173483c8d1cfc3c9",
+    "tag": "italian sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd29173483c8d1cfc3dc",
+    "tag": "italian seasoning",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2a173483c8d1cfc3fd",
+    "tag": "leek",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2c173483c8d1cfc420",
+    "tag": "lemon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2d173483c8d1cfc42f",
+    "tag": "lentils",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2e173483c8d1cfc440",
+    "tag": "limes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2f173483c8d1cfc453",
+    "tag": "linguine pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd2f173483c8d1cfc468",
+    "tag": "mint",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd30173483c8d1cfc47c",
+    "tag": "mint leaves",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd31173483c8d1cfc493",
+    "tag": "miso paste",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd32173483c8d1cfc4a7",
+    "tag": "mixed greens ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd33173483c8d1cfc4bb",
+    "tag": "non-dairy vanilla yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd34173483c8d1cfc4ce",
+    "tag": "non-dairy yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd35173483c8d1cfc4e2",
+    "tag": "nut butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd35173483c8d1cfc4f6",
+    "tag": "olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd38173483c8d1cfc523",
+    "tag": "onion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd39173483c8d1cfc539",
+    "tag": "orange",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd39173483c8d1cfc54c",
+    "tag": "orange juice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3b173483c8d1cfc566",
+    "tag": "oregano",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3b173483c8d1cfc57a",
+    "tag": "paneer",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3c173483c8d1cfc58d",
+    "tag": "parchment paper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3d173483c8d1cfc5a3",
+    "tag": "pasta sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3e173483c8d1cfc5b8",
+    "tag": "pesto",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd3f173483c8d1cfc5cb",
+    "tag": "pickle relish",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd40173483c8d1cfc5de",
+    "tag": "pineapple rings",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd40173483c8d1cfc5f0",
+    "tag": "pita",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd41173483c8d1cfc602",
+    "tag": "pork chops",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd42173483c8d1cfc616",
+    "tag": "portobello mushroom caps",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd43173483c8d1cfc62a",
+    "tag": "raisins",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd44173483c8d1cfc63e",
+    "tag": "red lentils",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd45173483c8d1cfc651",
+    "tag": "red potato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd46173483c8d1cfc666",
+    "tag": "red wine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd46173483c8d1cfc67a",
+    "tag": "rice noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd47173483c8d1cfc690",
+    "tag": "ricotta cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd48173483c8d1cfc6a4",
+    "tag": "ripe plantain",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd49173483c8d1cfc6b8",
+    "tag": "roasted red peppers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4a173483c8d1cfc6cb",
+    "tag": "rosemary",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4b173483c8d1cfc6e0",
+    "tag": "sage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4c173483c8d1cfc6f1",
+    "tag": "salsa",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4d173483c8d1cfc703",
+    "tag": "salsa verde",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4d173483c8d1cfc717",
+    "tag": "scallions",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4e173483c8d1cfc72a",
+    "tag": "sea salt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd4f173483c8d1cfc73f",
+    "tag": "seitan",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd50173483c8d1cfc754",
+    "tag": "sesame seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd51173483c8d1cfc763",
+    "tag": "shredded vegan mozzarella",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd52173483c8d1cfc774",
+    "tag": "silken tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd53173483c8d1cfc784",
+    "tag": "single serving plain greek yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd53173483c8d1cfc794",
+    "tag": "single serving yogurt of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd54173483c8d1cfc7a4",
+    "tag": "small red cabbage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd55173483c8d1cfc7b9",
+    "tag": "soba noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd56173483c8d1cfc7ce",
+    "tag": "sour cream",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd57173483c8d1cfc7e4",
+    "tag": "sprouts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd58173483c8d1cfc7f9",
+    "tag": "sriracha",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd59173483c8d1cfc80b",
+    "tag": "strawberries",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd59173483c8d1cfc821",
+    "tag": "summer squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd5a173483c8d1cfc835",
+    "tag": "sweet chili sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd5b173483c8d1cfc849",
+    "tag": "swiss cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd5c173483c8d1cfc85b",
+    "tag": "taco seasoning",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd5d173483c8d1cfc86e",
+    "tag": "taco seasoning packet",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd5f173483c8d1cfc89e",
+    "tag": "thyme",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd60173483c8d1cfc8b5",
+    "tag": "tomato paste",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd61173483c8d1cfc8c9",
+    "tag": "tzatziki sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd61173483c8d1cfc8e0",
+    "tag": "vanilla yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd62173483c8d1cfc8f4",
+    "tag": "vegan kimchi",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd63173483c8d1cfc90b",
+    "tag": "vegan pie crusts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd64173483c8d1cfc921",
+    "tag": "white wine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd65173483c8d1cfc937",
+    "tag": "wild rice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd66173483c8d1cfc959",
+    "tag": "yellow onion",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd67173483c8d1cfc96c",
+    "tag": "red curry paste",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd68173483c8d1cfc98f",
+    "tag": "rigatoni",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd69173483c8d1cfc9a3",
+    "tag": "romaine lettuce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd6a173483c8d1cfc9b8",
+    "tag": "rotel diced tomatoes ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd6d173483c8d1cfc9f9",
+    "tag": "salt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd6f173483c8d1cfca1a",
+    "tag": "sauce of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd70173483c8d1cfca2e",
+    "tag": "shiitake mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd70173483c8d1cfca43",
+    "tag": "shredded carrots",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd71173483c8d1cfca57",
+    "tag": "shredded coconut, unsweetened",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd72173483c8d1cfca6b",
+    "tag": "sliced cheese of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd73173483c8d1cfca7f",
+    "tag": "sliced pepperoni",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd74173483c8d1cfcaa1",
+    "tag": "soft tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd76173483c8d1cfcac2",
+    "tag": "spaghetti",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd77173483c8d1cfcad8",
+    "tag": "spaghetti squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd78173483c8d1cfcaf4",
+    "tag": "spinach",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd79173483c8d1cfcb09",
+    "tag": "sriracha mayo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7a173483c8d1cfcb1b",
+    "tag": "steel cut oats",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7a173483c8d1cfcb2c",
+    "tag": "strip steak",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7b173483c8d1cfcb3f",
+    "tag": "sumac ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7c173483c8d1cfcb54",
+    "tag": "swiss chard",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7d173483c8d1cfcb67",
+    "tag": "tahini",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7e173483c8d1cfcb7c",
+    "tag": "tangerine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd7f173483c8d1cfcb94",
+    "tag": "tilapia",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd80173483c8d1cfcbb1",
+    "tag": "tomato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd81173483c8d1cfcbc6",
+    "tag": "tomato sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd82173483c8d1cfcbd9",
+    "tag": "tortilla chips",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd83173483c8d1cfcbf1",
+    "tag": "trail mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd83173483c8d1cfcc01",
+    "tag": "turmeric",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd84173483c8d1cfcc18",
+    "tag": "vegan breakfast sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd85173483c8d1cfcc2f",
+    "tag": "vegan cheese slices",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd86173483c8d1cfcc44",
+    "tag": "vegan chocolate covered almonds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd87173483c8d1cfcc58",
+    "tag": "vegan mayo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd88173483c8d1cfcc6d",
+    "tag": "vegetable broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd89173483c8d1cfcc7f",
+    "tag": "vegetarian box corn muffin mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8a173483c8d1cfcc95",
+    "tag": "veggie broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8b173483c8d1cfccaa",
+    "tag": "veggie ground “meat”",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8b173483c8d1cfccbd",
+    "tag": "veggie sausage links",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8c173483c8d1cfccd5",
+    "tag": "veggie sausage of your choice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8e173483c8d1cfccf6",
+    "tag": "vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8f173483c8d1cfcd07",
+    "tag": "walnuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd8f173483c8d1cfcd17",
+    "tag": "whole wheat flour",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd90173483c8d1cfcd2c",
+    "tag": "whole wheat wraps",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd91173483c8d1cfcd43",
+    "tag": "yellow squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd92173483c8d1cfcd57",
+    "tag": "yukon gold potatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd93173483c8d1cfcd6c",
+    "tag": "ziti",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd94173483c8d1cfcd82",
+    "tag": "minimal cooking",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd95173483c8d1cfcd9c",
+    "tag": "beginner",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd96173483c8d1cfcda9",
+    "tag": "salad",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd97173483c8d1cfcdc2",
+    "tag": "no reheat",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd97173483c8d1cfcdcf",
+    "tag": "under 30 minutes",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd98173483c8d1cfcddc",
+    "tag": "level up skills",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd98173483c8d1cfcdec",
+    "tag": "date night",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9a173483c8d1cfce01",
+    "tag": "breakfast",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9a173483c8d1cfce0e",
+    "tag": "wraps & sandwiches",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9b173483c8d1cfce1b",
+    "tag": "meals on the go",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9b173483c8d1cfce29",
+    "tag": "one-pot",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9c173483c8d1cfce41",
+    "tag": "kid friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9d173483c8d1cfce4f",
+    "tag": "brunch",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9e173483c8d1cfce6a",
+    "tag": "freezer friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9f173483c8d1cfce76",
+    "tag": "freezzer friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cd9f173483c8d1cfce83",
+    "tag": "one pot",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda0173483c8d1cfce8f",
+    "tag": "savory breakfasts",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda1173483c8d1cfce9e",
+    "tag": "baked goods",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda1173483c8d1cfceab",
+    "tag": "i just can't right now",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda2173483c8d1cfceb8",
+    "tag": "seasonal",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda2173483c8d1cfcec8",
+    "tag": "savory breakfast",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda3173483c8d1cfced5",
+    "tag": "soup",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda3173483c8d1cfcee2",
+    "tag": "salads without greens",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda4173483c8d1cfcef0",
+    "tag": "salads",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda5173483c8d1cfceff",
+    "tag": "sandwiches & wraps",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda5173483c8d1cfcf0c",
+    "tag": "under 30 mins",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda6173483c8d1cfcf18",
+    "tag": "freezer-friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda6173483c8d1cfcf24",
+    "tag": "one pan",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda7173483c8d1cfcf33",
+    "tag": "kid-friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda7173483c8d1cfcf40",
+    "tag": "no-reheat",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda8173483c8d1cfcf4d",
+    "tag": "beginner sandwiches & wraps",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda8173483c8d1cfcf5c",
+    "tag": "30 minute meal",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cda9173483c8d1cfcf6b",
+    "tag": "i just can’t right now",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdaa173483c8d1cfcf76",
+    "tag": "sauce",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdaa173483c8d1cfcf84",
+    "tag": "copycat",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdab173483c8d1cfcf91",
+    "tag": "kid- friendly",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdab173483c8d1cfcf9b",
+    "tag": "under 30 minues",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdac173483c8d1cfcfa8",
+    "tag": "baked good",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdac173483c8d1cfcfb6",
+    "tag": "wraps and sandwiches",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdad173483c8d1cfcfc3",
+    "tag": "freezer friendly minimal cooking",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdae173483c8d1cfcfd3",
+    "tag": "no- reheat",
+    "type": "recipe",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdae173483c8d1cfcfe6",
+    "tag": "ground allspice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdaf173483c8d1cfcffa",
+    "tag": "rocket",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb0173483c8d1cfd00e",
+    "tag": "baby arugula",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb1173483c8d1cfd022",
+    "tag": "fruit salad",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb2173483c8d1cfd037",
+    "tag": "mixed fruit",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb3173483c8d1cfd04b",
+    "tag": "balsamic",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb3173483c8d1cfd05f",
+    "tag": "barbeque sauce",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb4173483c8d1cfd075",
+    "tag": "sliced black olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb5173483c8d1cfd087",
+    "tag": "whole black olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb6173483c8d1cfd09b",
+    "tag": "sliced ripe olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb7173483c8d1cfd0b1",
+    "tag": "canned olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb8173483c8d1cfd0c1",
+    "tag": "can of olives",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb9173483c8d1cfd0d2",
+    "tag": "pear",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdb9173483c8d1cfd0e4",
+    "tag": "cornbread mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdbb173483c8d1cfd104",
+    "tag": "coffee",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdbc173483c8d1cfd117",
+    "tag": "brussels",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdbd173483c8d1cfd12a",
+    "tag": "cultured buttermilk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdbe173483c8d1cfd146",
+    "tag": "canned beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdbf173483c8d1cfd155",
+    "tag": "can of black beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc0173483c8d1cfd175",
+    "tag": "can of beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc1173483c8d1cfd189",
+    "tag": "butter beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc2173483c8d1cfd19d",
+    "tag": "can of butter beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc3173483c8d1cfd1ae",
+    "tag": "garbanzo beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc4173483c8d1cfd1c0",
+    "tag": "can of chickpeas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc5173483c8d1cfd1d5",
+    "tag": "canned garbanzo beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc5173483c8d1cfd1e9",
+    "tag": "can of coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc6173483c8d1cfd1fd",
+    "tag": "lite coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc7173483c8d1cfd212",
+    "tag": "light coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc8173483c8d1cfd225",
+    "tag": "full fat coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdc9173483c8d1cfd238",
+    "tag": "fire roasted tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdca173483c8d1cfd24d",
+    "tag": "can of fire roasted tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdcb173483c8d1cfd25e",
+    "tag": "can of salmon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdcb173483c8d1cfd271",
+    "tag": "canned fish",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdcc173483c8d1cfd286",
+    "tag": "tuna",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdcd173483c8d1cfd299",
+    "tag": "can of tuna",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdce173483c8d1cfd2aa",
+    "tag": "cannellini",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdcf173483c8d1cfd2c2",
+    "tag": "beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd0173483c8d1cfd2d7",
+    "tag": "can of cannellini beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd1173483c8d1cfd2ec",
+    "tag": "baby corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd2173483c8d1cfd300",
+    "tag": "cannned baby corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd3173483c8d1cfd314",
+    "tag": "canned corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd3173483c8d1cfd327",
+    "tag": "canned chiles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd4173483c8d1cfd33b",
+    "tag": "canned green chiles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd5173483c8d1cfd350",
+    "tag": "canned diced tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd6173483c8d1cfd364",
+    "tag": "diced tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd7173483c8d1cfd378",
+    "tag": "baby carrots",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd8173483c8d1cfd391",
+    "tag": "whole carrot",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdd9173483c8d1cfd3a4",
+    "tag": "ground cayenne pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdda173483c8d1cfd3b6",
+    "tag": "chicken sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdda173483c8d1cfd3c7",
+    "tag": "chili pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cddb173483c8d1cfd3db",
+    "tag": "ground cloves",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cddc173483c8d1cfd3f0",
+    "tag": "granulated sugar ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cddd173483c8d1cfd405",
+    "tag": "oil spray",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdde173483c8d1cfd41a",
+    "tag": "veggie bacon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cddf173483c8d1cfd42d",
+    "tag": "vegan bacon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde0173483c8d1cfd441",
+    "tag": "vegetarian bacon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde1173483c8d1cfd452",
+    "tag": "veggie boullin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde2173483c8d1cfd463",
+    "tag": "breadcrumbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde2173483c8d1cfd476",
+    "tag": "panko bread crumbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde3173483c8d1cfd48a",
+    "tag": "cajun spice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde4173483c8d1cfd49e",
+    "tag": "cream of coconut",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde5173483c8d1cfd4b4",
+    "tag": "can of coconut cream",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde6173483c8d1cfd4c8",
+    "tag": "pigeon peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde7173483c8d1cfd4dc",
+    "tag": "can of pigeon peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde7173483c8d1cfd4f0",
+    "tag": "pinto",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde8173483c8d1cfd502",
+    "tag": "can of pinto beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cde9173483c8d1cfd516",
+    "tag": "canned beets",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdea173483c8d1cfd52d",
+    "tag": "canned creamed corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdeb173483c8d1cfd541",
+    "tag": "can of creamed corn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdec173483c8d1cfd554",
+    "tag": "celery heart",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cded173483c8d1cfd567",
+    "tag": "grape tomatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cded173483c8d1cfd57a",
+    "tag": "wings",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdee173483c8d1cfd58c",
+    "tag": "unsweetened coconut milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdef173483c8d1cfd5a1",
+    "tag": "virgin coconut oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf0173483c8d1cfd5b5",
+    "tag": "refined coconut oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf1173483c8d1cfd5c5",
+    "tag": "unrefined coconut oil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf2173483c8d1cfd5d9",
+    "tag": "creole spice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf3173483c8d1cfd5eb",
+    "tag": "polenta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf3173483c8d1cfd5ff",
+    "tag": "crackers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf4173483c8d1cfd612",
+    "tag": "cereal",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf5173483c8d1cfd627",
+    "tag": "pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf6173483c8d1cfd639",
+    "tag": "granola",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf7173483c8d1cfd64a",
+    "tag": "romano",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf8173483c8d1cfd65f",
+    "tag": "parmiggiano reggiano",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf9173483c8d1cfd673",
+    "tag": "dinosaur kale",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdf9173483c8d1cfd687",
+    "tag": "laccinato kale",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdfa173483c8d1cfd69d",
+    "tag": "clementine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdfb173483c8d1cfd6b7",
+    "tag": "cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdfc173483c8d1cfd6cc",
+    "tag": "shredded cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdfd173483c8d1cfd6e0",
+    "tag": "shredded mozzarella",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdfe173483c8d1cfd6f4",
+    "tag": "shredded cheddar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458cdff173483c8d1cfd707",
+    "tag": "mexican blend cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce00173483c8d1cfd71b",
+    "tag": "rolled oats",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce01173483c8d1cfd730",
+    "tag": "green peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce01173483c8d1cfd744",
+    "tag": "shelled peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce02173483c8d1cfd754",
+    "tag": "pumpkin seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce03173483c8d1cfd76a",
+    "tag": "yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce04173483c8d1cfd77a",
+    "tag": "yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce05173483c8d1cfd790",
+    "tag": "sprinkles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce06173483c8d1cfd7a1",
+    "tag": "potato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce07173483c8d1cfd7b3",
+    "tag": "non-dairy shredded cheddar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce09173483c8d1cfd7db",
+    "tag": "baby gold potatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce09173483c8d1cfd7ee",
+    "tag": "potato puffs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0a173483c8d1cfd800",
+    "tag": "tater puffs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0b173483c8d1cfd814",
+    "tag": "alcohol",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0c173483c8d1cfd826",
+    "tag": "farfalle pasta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0d173483c8d1cfd846",
+    "tag": "winter squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0e173483c8d1cfd85a",
+    "tag": "squash",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce0f173483c8d1cfd873",
+    "tag": "baby carrot",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce10173483c8d1cfd886",
+    "tag": "mix ins",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce11173483c8d1cfd898",
+    "tag": "add ins",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce12173483c8d1cfd8ac",
+    "tag": "powdered sugar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce13173483c8d1cfd8c0",
+    "tag": "coriander",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce14173483c8d1cfd8d6",
+    "tag": "pistachios",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce14173483c8d1cfd8e8",
+    "tag": "jelly",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce15173483c8d1cfd8fc",
+    "tag": "wrap",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce16173483c8d1cfd911",
+    "tag": "greek yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce18173483c8d1cfd930",
+    "tag": "yam",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce19173483c8d1cfd950",
+    "tag": "vegan sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce1a173483c8d1cfd964",
+    "tag": "vegetable sausage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce1b173483c8d1cfd974",
+    "tag": "white kidney beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce1c173483c8d1cfd988",
+    "tag": "cheddar cheese",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce1c173483c8d1cfd99b",
+    "tag": "white cheddar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce20173483c8d1cfd9ec",
+    "tag": "sub rolls",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce21173483c8d1cfda01",
+    "tag": "cremini mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce22173483c8d1cfda14",
+    "tag": "portobello mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce23173483c8d1cfda27",
+    "tag": "white mushrooms",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce24173483c8d1cfda3a",
+    "tag": "seaweed wraps",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce24173483c8d1cfda4d",
+    "tag": "shells",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce25173483c8d1cfda60",
+    "tag": "hamburger bun",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce26173483c8d1cfda72",
+    "tag": "potato roll",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce27173483c8d1cfda87",
+    "tag": "burger bun",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce28173483c8d1cfda99",
+    "tag": "white rice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce29173483c8d1cfdaae",
+    "tag": "fresh thai basil",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce29173483c8d1cfdac1",
+    "tag": "bok choy",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce2b173483c8d1cfdad9",
+    "tag": "pak choi",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce2c173483c8d1cfdae6",
+    "tag": "pok choi",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce2d173483c8d1cfdaf2",
+    "tag": "salad mix",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce2e173483c8d1cfdb04",
+    "tag": "plant based chicken",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce2f173483c8d1cfdb0f",
+    "tag": "vegetarian chicken",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce30173483c8d1cfdb17",
+    "tag": "vegan chickn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce31173483c8d1cfdb22",
+    "tag": "chickn",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce32173483c8d1cfdb2e",
+    "tag": "chick'n",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce32173483c8d1cfdb33",
+    "tag": "hamburgers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce33173483c8d1cfdb3b",
+    "tag": "can of black eyed peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce34173483c8d1cfdb43",
+    "tag": "canned black eyed peas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce37173483c8d1cfdb50",
+    "tag": "rainbow slaw",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce38173483c8d1cfdb58",
+    "tag": "veggie slaw",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce39173483c8d1cfdb5d",
+    "tag": "vegetable slaw",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3a173483c8d1cfdb6d",
+    "tag": "hamburger buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3b173483c8d1cfdb7a",
+    "tag": "buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3c173483c8d1cfdb88",
+    "tag": "hamburger rolls",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3c173483c8d1cfdb98",
+    "tag": "burger rolls",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3d173483c8d1cfdba6",
+    "tag": "canned cannelini beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3e173483c8d1cfdbb6",
+    "tag": "can of cannelini beans",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce3f173483c8d1cfdbc9",
+    "tag": "can of pineapple",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce40173483c8d1cfdbd9",
+    "tag": "can of pumpkin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce41173483c8d1cfdbe9",
+    "tag": "pumpkin",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce41173483c8d1cfdbf5",
+    "tag": "artichoke",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce42173483c8d1cfdc09",
+    "tag": "canned artichoke",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce43173483c8d1cfdc19",
+    "tag": "melon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce44173483c8d1cfdc25",
+    "tag": "non-pariel capers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce45173483c8d1cfdc33",
+    "tag": "ciabetta roll",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce47173483c8d1cfdc43",
+    "tag": "ground cinnamon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce48173483c8d1cfdc57",
+    "tag": "saigon cinnamon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce49173483c8d1cfdc61",
+    "tag": "cocoa",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4a173483c8d1cfdc68",
+    "tag": "baking cocoa",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4b173483c8d1cfdc74",
+    "tag": "aubergine",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4c173483c8d1cfdc7c",
+    "tag": "peas ",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4d173483c8d1cfdc8b",
+    "tag": "oats",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4e173483c8d1cfdc95",
+    "tag": "cookies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4e173483c8d1cfdc9f",
+    "tag": "vanilla cookies",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce4f173483c8d1cfdcab",
+    "tag": "bun",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce50173483c8d1cfdcb6",
+    "tag": "non-dairy ricotta",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce51173483c8d1cfdcc2",
+    "tag": "plain non-dairy yogurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce52173483c8d1cfdcd5",
+    "tag": "plain non-dairy yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce53173483c8d1cfdce1",
+    "tag": "gyoza wrappers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce54173483c8d1cfdce9",
+    "tag": "dumpling wrappers",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce55173483c8d1cfdcf2",
+    "tag": "tortilla",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce56173483c8d1cfdcfe",
+    "tag": "strawberry jam",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce57173483c8d1cfdd06",
+    "tag": "strawberry jelly",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce58173483c8d1cfdd0d",
+    "tag": "raspberry jam",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce59173483c8d1cfdd15",
+    "tag": "raspberry jelly",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce59173483c8d1cfdd1d",
+    "tag": "apricot jam",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce5a173483c8d1cfdd25",
+    "tag": "apricot jelly",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce5b173483c8d1cfdd2d",
+    "tag": "tomato ketchup",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce5c173483c8d1cfdd35",
+    "tag": "elbow macaroni",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce5d173483c8d1cfdd40",
+    "tag": "syrup",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce5f173483c8d1cfdd4c",
+    "tag": "almond milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce61173483c8d1cfdd59",
+    "tag": "cashew milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce63173483c8d1cfdd63",
+    "tag": "oat milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce64173483c8d1cfdd70",
+    "tag": "hemp milk",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce65173483c8d1cfdd79",
+    "tag": "flax seeds",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce66173483c8d1cfdd81",
+    "tag": "pine nuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce67173483c8d1cfdd89",
+    "tag": "slider buns",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce68173483c8d1cfdd93",
+    "tag": "black pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce69173483c8d1cfdd9c",
+    "tag": "ground pepper",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6a173483c8d1cfdda4",
+    "tag": "pumpkin pie spice",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6b173483c8d1cfddac",
+    "tag": "herbs",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6c173483c8d1cfddb4",
+    "tag": "macaroni",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6e173483c8d1cfddc2",
+    "tag": "yeast",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6e173483c8d1cfddc9",
+    "tag": "vanilla yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce6f173483c8d1cfddce",
+    "tag": "plain yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce70173483c8d1cfddd5",
+    "tag": "cashew butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce71173483c8d1cfddd9",
+    "tag": "sun butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce72173483c8d1cfdddd",
+    "tag": "sunflower butter",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce73173483c8d1cfdde1",
+    "tag": "relish",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce73173483c8d1cfdde5",
+    "tag": "fresh rosemary",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce74173483c8d1cfdde9",
+    "tag": "fresh sage",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce75173483c8d1cfdded",
+    "tag": "non-dairy shredded mozzarella",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce76173483c8d1cfddf3",
+    "tag": "plain greek yoghurt",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce77173483c8d1cfddfa",
+    "tag": "stir fry noodles",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce79173483c8d1cfddff",
+    "tag": "tofu",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7a173483c8d1cfde03",
+    "tag": "chorizo",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7a173483c8d1cfde07",
+    "tag": "heirloom tomato",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7c173483c8d1cfde0b",
+    "tag": "veggie stock",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7c173483c8d1cfde0f",
+    "tag": "vegetable stock",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7d173483c8d1cfde13",
+    "tag": "veg broth",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7e173483c8d1cfde17",
+    "tag": "veggie meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce7f173483c8d1cfde1b",
+    "tag": "veggie ground meat",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce80173483c8d1cfde1f",
+    "tag": "white vinegar",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce81173483c8d1cfde23",
+    "tag": "chopped walnuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce82173483c8d1cfde27",
+    "tag": "halved walnuts",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce83173483c8d1cfde2e",
+    "tag": "whole wheat tortillas",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce84173483c8d1cfde33",
+    "tag": "yukon",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce85173483c8d1cfde37",
+    "tag": "yukon potatoes",
+    "type": "ingredient",
+    "__v": 0
+  },
+  {
+    "_id": "6458ce85173483c8d1cfde3b",
+    "tag": "potatoes",
+    "type": "ingredient",
+    "__v": 0
+  }
+]
